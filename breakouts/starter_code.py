@@ -53,34 +53,6 @@ def trigger_error():
     except Exception as e:
         raise HTTPException(status_code=500, detail="Internal server error")
 
-# Health Check Endpoints
-
-@app.get("/health")
-def health_check():
-    """Liveness probe - checks if the application is alive"""
-    # TODO: Add logging here in breakout 3
-    return {
-        "status": "alive",
-        "timestamp": datetime.utcnow().isoformat()
-    }
-
-@app.get("/ready")
-def readiness_check():
-    """Readiness probe - checks if the application is ready to handle requests"""
-    # TODO: Add logging here in breakout 3
-    return {
-        "status": "ready",
-        "timestamp": datetime.utcnow().isoformat()
-    }
-
-@app.get("/startup")
-def startup_check():
-    """Startup probe - checks if the application has finished starting up"""
-    # TODO: Add logging here in breakout 3
-    return {
-        "status": "started",
-        "timestamp": datetime.utcnow().isoformat()
-    }
 
 if __name__ == "__main__":
     print("🚀 Starting E-commerce API Demo")
