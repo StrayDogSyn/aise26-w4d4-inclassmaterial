@@ -1,0 +1,92 @@
+{"timestamp": "2025-10-23T20:39:01.740308", "level": "INFO", "message": "Starting the library server"}
+{"timestamp": "2025-10-23T20:39:26.680597", "level": "INFO", "message": "Starting the library server"}
+{"timestamp": "2025-10-23T20:39:52.212689", "level": "INFO", "message": "Getting all books"}
+{"timestamp": "2025-10-23T20:39:58.753071", "level": "INFO", "message": "Book found", "book_id": 14}
+{"timestamp": "2025-10-23T20:40:39.287657", "level": "ERROR", "message": "User not found", "username": "14"}
+{"timestamp": "2025-10-23T20:47:41.889527", "level": "INFO", "message": "Getting all users"}
+{"timestamp": "2025-10-23T20:47:41.949217", "level": "INFO", "message": "Book found", "book_id": 3}
+{"timestamp": "2025-10-23T20:47:42.009999", "level": "INFO", "message": "Book found", "book_id": 6}
+{"timestamp": "2025-10-23T20:47:42.071018", "level": "ERROR", "message": "Book not found", "book_id": -1}
+{"timestamp": "2025-10-23T20:47:42.183589", "level": "INFO", "message": "Getting all books"}
+{"timestamp": "2025-10-23T20:47:42.244786", "level": "ERROR", "message": "Don't worry, it's just a test. :)"}
+{"timestamp": "2025-10-23T20:47:42.301402", "level": "INFO", "message": "Getting all users"}
+{"timestamp": "2025-10-23T20:47:42.356687", "level": "ERROR", "message": "User not found", "username": "random_person"}
+{"timestamp": "2025-10-23T20:47:42.416753", "level": "INFO", "message": "Getting all users"}
+{"timestamp": "2025-10-23T20:47:42.476129", "level": "ERROR", "message": "Don't worry, it's just a test. :)"}
+{"timestamp": "2025-10-23T20:47:42.530675", "level": "INFO", "message": "Getting all users"}
+{"timestamp": "2025-10-23T20:47:42.588314", "level": "ERROR", "message": "Book not found", "book_id": -5}
+{"timestamp": "2025-10-23T20:47:42.649108", "level": "INFO", "message": "Getting all users"}
+{"timestamp": "2025-10-23T20:47:42.707084", "level": "ERROR", "message": "Don't worry, it's just a test. :)"}
+{"timestamp": "2025-10-23T20:47:42.765952", "level": "INFO", "message": "Getting all books"}
+{"timestamp": "2025-10-23T20:47:42.821069", "level": "ERROR", "message": "User not found", "username": "alice123"}
+{"timestamp": "2025-10-23T20:47:42.933344", "level": "INFO", "message": "User found", "username": "chris_walker12"}
+{"timestamp": "2025-10-23T20:47:42.988304", "level": "ERROR", "message": "User not found", "username": "unknown_user"}
+{"timestamp": "2025-10-23T20:47:43.044792", "level": "INFO", "message": "Getting all books"}
+{"timestamp": "2025-10-23T20:47:43.160251", "level": "INFO", "message": "Book found", "book_id": 20}
+{"timestamp": "2025-10-23T20:47:43.217520", "level": "ERROR", "message": "User not found", "username": "fake_user99"}
+{"timestamp": "2025-10-23T20:47:43.276301", "level": "INFO", "message": "User found", "username": "chris_walker12"}
+{"timestamp": "2025-10-23T20:47:43.336325", "level": "ERROR", "message": "Don't worry, it's just a test. :)"}
+{"timestamp": "2025-10-23T20:47:43.450484", "level": "ERROR", "message": "Don't worry, it's just a test. :)"}
+{"timestamp": "2025-10-23T20:47:43.535573", "level": "INFO", "message": "Getting all books"}
+{"timestamp": "2025-10-23T20:47:43.593482", "level": "ERROR", "message": "Don't worry, it's just a test. :)"}
+{"timestamp": "2025-10-23T20:47:43.647350", "level": "INFO", "message": "Getting all books"}
+{"timestamp": "2025-10-23T20:47:43.706838", "level": "ERROR", "message": "Book not found", "book_id": 0}
+{"timestamp": "2025-10-23T20:47:43.764408", "level": "INFO", "message": "Book found", "book_id": 7}
+{"timestamp": "2025-10-23T20:47:43.820271", "level": "INFO", "message": "Getting all users"}
+{"timestamp": "2025-10-23T20:47:43.876378", "level": "INFO", "message": "Getting all books"}
+{"timestamp": "2025-10-23T20:47:43.933963", "level": "ERROR", "message": "Don't worry, it's just a test. :)"}
+{"timestamp": "2025-10-23T20:47:43.987216", "level": "ERROR", "message": "Book not found", "book_id": -5}
+{"timestamp": "2025-10-23T20:47:44.044008", "level": "ERROR", "message": "Don't worry, it's just a test. :)"}
+{"timestamp": "2025-10-23T20:47:44.096929", "level": "INFO", "message": "User found", "username": "mike_smith23"}
+{"timestamp": "2025-10-23T20:47:44.152656", "level": "INFO", "message": "Book found", "book_id": 20}
+{"timestamp": "2025-10-23T20:47:44.210762", "level": "ERROR", "message": "User not found", "username": "fake_user99"}
+{"timestamp": "2025-10-23T20:47:44.269559", "level": "ERROR", "message": "Book not found", "book_id": -5}
+{"timestamp": "2025-10-23T20:47:44.326201", "level": "INFO", "message": "Getting all users"}
+{"timestamp": "2025-10-23T20:47:44.386346", "level": "INFO", "message": "Getting all books"}
+{"timestamp": "2025-10-23T20:47:44.442527", "level": "ERROR", "message": "Book not found", "book_id": 0}
+{"timestamp": "2025-10-23T20:47:44.572125", "level": "INFO", "message": "User found", "username": "laura88"}
+{"timestamp": "2025-10-23T20:47:44.657578", "level": "ERROR", "message": "Don't worry, it's just a test. :)"}
+{"timestamp": "2025-10-23T20:47:44.728597", "level": "INFO", "message": "User found", "username": "david42"}
+{"timestamp": "2025-10-23T20:47:44.792626", "level": "INFO", "message": "Book found", "book_id": 11}
+{"timestamp": "2025-10-23T20:47:44.912846", "level": "INFO", "message": "Getting all users"}
+{"timestamp": "2025-10-23T20:47:44.969051", "level": "ERROR", "message": "User not found", "username": "nobody"}
+{"timestamp": "2025-10-23T20:47:45.023669", "level": "ERROR", "message": "Don't worry, it's just a test. :)"}
+{"timestamp": "2025-10-23T20:47:45.084786", "level": "INFO", "message": "Getting all books"}
+{"timestamp": "2025-10-23T20:47:45.141745", "level": "ERROR", "message": "Book not found", "book_id": 22}
+{"timestamp": "2025-10-23T20:47:45.196115", "level": "INFO", "message": "Book found", "book_id": 12}
+{"timestamp": "2025-10-23T20:47:45.368142", "level": "INFO", "message": "Getting all books"}
+{"timestamp": "2025-10-23T20:47:45.426295", "level": "ERROR", "message": "Don't worry, it's just a test. :)"}
+{"timestamp": "2025-10-23T20:47:45.482230", "level": "ERROR", "message": "User not found", "username": "nobody"}
+{"timestamp": "2025-10-23T20:47:45.540647", "level": "INFO", "message": "Book found", "book_id": 8}
+{"timestamp": "2025-10-23T20:47:45.599972", "level": "INFO", "message": "User found", "username": "jenny99"}
+{"timestamp": "2025-10-23T20:47:45.660132", "level": "INFO", "message": "Getting all books"}
+{"timestamp": "2025-10-23T20:47:45.717524", "level": "INFO", "message": "Book found", "book_id": 17}
+{"timestamp": "2025-10-23T20:47:45.772511", "level": "INFO", "message": "Getting all users"}
+{"timestamp": "2025-10-23T20:47:45.830464", "level": "ERROR", "message": "Don't worry, it's just a test. :)"}
+{"timestamp": "2025-10-23T20:47:45.889876", "level": "ERROR", "message": "User not found", "username": "unknown_user"}
+{"timestamp": "2025-10-23T20:47:45.950177", "level": "ERROR", "message": "Don't worry, it's just a test. :)"}
+{"timestamp": "2025-10-23T20:47:46.007764", "level": "INFO", "message": "Book found", "book_id": 12}
+{"timestamp": "2025-10-23T20:47:46.069930", "level": "INFO", "message": "Book found", "book_id": 4}
+{"timestamp": "2025-10-23T20:47:46.187958", "level": "ERROR", "message": "Book not found", "book_id": -5}
+{"timestamp": "2025-10-23T20:47:46.446000", "level": "ERROR", "message": "Don't worry, it's just a test. :)"}
+{"timestamp": "2025-10-23T20:47:46.505555", "level": "INFO", "message": "Getting all books"}
+{"timestamp": "2025-10-23T20:47:46.564041", "level": "INFO", "message": "Book found", "book_id": 11}
+{"timestamp": "2025-10-23T20:47:46.621298", "level": "INFO", "message": "Getting all books"}
+{"timestamp": "2025-10-23T20:47:46.676708", "level": "ERROR", "message": "Don't worry, it's just a test. :)"}
+{"timestamp": "2025-10-23T20:47:46.731608", "level": "INFO", "message": "Getting all users"}
+{"timestamp": "2025-10-23T20:47:46.789291", "level": "INFO", "message": "Getting all books"}
+{"timestamp": "2025-10-23T20:47:46.843891", "level": "INFO", "message": "Book found", "book_id": 4}
+{"timestamp": "2025-10-23T20:47:46.901837", "level": "INFO", "message": "Book found", "book_id": 8}
+{"timestamp": "2025-10-23T20:47:46.958776", "level": "INFO", "message": "Getting all users"}
+{"timestamp": "2025-10-23T20:47:47.016455", "level": "INFO", "message": "Book found", "book_id": 1}
+{"timestamp": "2025-10-23T20:47:47.128412", "level": "INFO", "message": "User found", "username": "laura88"}
+{"timestamp": "2025-10-23T20:47:47.182199", "level": "ERROR", "message": "Book not found", "book_id": 21}
+{"timestamp": "2025-10-23T20:47:47.239919", "level": "ERROR", "message": "User not found", "username": "test_user"}
+{"timestamp": "2025-10-23T20:47:47.297505", "level": "INFO", "message": "Getting all users"}
+{"timestamp": "2025-10-23T20:47:47.406134", "level": "INFO", "message": "Getting all users"}
+{"timestamp": "2025-10-23T20:47:47.463936", "level": "ERROR", "message": "Book not found", "book_id": 999}
+{"timestamp": "2025-10-23T20:47:47.518369", "level": "INFO", "message": "User found", "username": "mike_smith23"}
+{"timestamp": "2025-10-23T20:47:47.576961", "level": "INFO", "message": "User found", "username": "jenny99"}
+{"timestamp": "2025-10-23T20:47:47.635248", "level": "ERROR", "message": "Don't worry, it's just a test. :)"}
+{"timestamp": "2025-10-23T20:47:47.694931", "level": "ERROR", "message": "User not found", "username": "bob_williams"}
+{"timestamp": "2025-10-23T20:47:47.751654", "level": "ERROR", "message": "Don't worry, it's just a test. :)"}
