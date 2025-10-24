@@ -1,0 +1,40 @@
+server:
+  http_listen_port: 9080
+  grpc_listen_port: 0
+
+positions:
+  filename: /tmp/positions.yaml
+
+clients:
+  - url: http://loki:3100/loki/api/v1/push
+
+scrape_configs:
+  # Scrape E-commerce API logs
+  - job_name: ecommerce-api
+    static_configs:
+      - targets:
+          - localhost
+        labels:
+          job: ecommerce-api
+          app: ecommerce
+          __path__: /var/log/app/*.log
+
+    pipeline_stages:
+      # Parse JSON logs from structlog
+      - json:
+          expressions:
+            level: level
+            timestamp: timestamp
+            logger: logger_name
+            message: event
+            request_id: request_id
+            
+      # Add labels
+      - labels:
+          level:
+          logger:
+          
+      # Parse timestamp
+      - timestamp:
+          source: timestamp
+          format: RFC3339

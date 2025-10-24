@@ -1,0 +1,6 @@
+2025-10-23 20:02:36 | INFO     | ecommerce_api | <module>:383 | This is an INFO message - normal operation | Context: {"taskName": null}
+2025-10-23 20:02:36 | WARNING  | ecommerce_api | <module>:384 | This is a WARNING message - something unexpected | Context: {"taskName": null}
+2025-10-23 20:02:36 | ERROR    | ecommerce_api | <module>:385 | This is an ERROR message - something broke | Context: {"taskName": null}
+2025-10-23 20:02:36 | CRITICAL | ecommerce_api | <module>:386 | This is a CRITICAL message - system failure! | Context: {"taskName": null}
+2025-10-23 20:02:36 | INFO     | ecommerce_api | <module>:389 | User logged in | Context: {"taskName": null, "user_id": 123, "email": "john@example.com", "ip_address": "192.168.1.100"}
+2025-10-23 20:02:37 | INFO     | ecommerce_api | wrapper:315 | slow_operation completed successfully | Context: {"taskName": "Task-1", "function": "slow_operation", "execution_time": "0.5050s", "event": "complete"}

@@ -1,5 +1,7 @@
 # 🚀 E-commerce API Logging Breakouts
 
+<!-- cSpell:words ecommerce -->
+
 This repository contains a FastAPI-based e-commerce API with structured logging exercises. Complete these breakouts to learn about logging best practices, monitoring, and observability.
 
 ## 📋 Prerequisites
@@ -74,7 +76,7 @@ Create a comment block in your code with your designed log messages for each end
    - Verify different log levels
    - Check the log file output
 
-### 🎯 Deliverable
+### 🎯 Deliverable for Breakout 2
 
 - Working `logger.py` file
 - All endpoints with appropriate logging
@@ -86,11 +88,11 @@ Look at `../logging demo/logger.py` for inspiration.
 
 ---
 
-## # Breakout 3 - 30 minutes: Health Checks + Monitoring
+## Breakout 3 - 30 minutes: Health Checks + Monitoring
 
 **Objective**: Add logging to health check endpoints and visualize logs with Prometheus and Grafana.
 
-### 📝 Tasks
+### 📝 Tasks for Breakout 3
 
 1. **Add logging to health check endpoints**:
 
@@ -111,14 +113,14 @@ Look at `../logging demo/logger.py` for inspiration.
    - Create dashboards for your metrics
    - Visualize log data and system health
 
-### 🎯 Deliverable
+### 🎯 Deliverable for Breakout 3
 
 - Health check endpoints with logging
 - Prometheus metrics collection
 - Grafana dashboard showing your API metrics
 - Documentation of your monitoring setup
 
-### 📚 Reference
+### 📚 Reference for Breakout 3
 
 Look at `../logging demo/` for Prometheus and Grafana examples.
 
@@ -140,8 +142,8 @@ Look at `../logging demo/` for Prometheus and Grafana examples.
    ```
 
 3. **Test the API**:
-   - Visit: http://localhost:8000
-   - API docs: http://localhost:8000/docs
+   - Visit: <http://localhost:8000>
+   - API docs: <http://localhost:8000/docs>
    - Test endpoints: `/products`, `/users`, `/error`
 
 ## 📊 Success Criteria
